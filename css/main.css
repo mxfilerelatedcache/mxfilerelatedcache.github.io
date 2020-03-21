@@ -25,6 +25,12 @@ body{
   text-align: justify;
 }
 
+.centeredH {
+  max-width: 72rem;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
 .center {
   display: block;
   margin-left: auto;
