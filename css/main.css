@@ -38,6 +38,11 @@ body{
   width: 70%;
 }
 
+.center.vertical {
+    
+     width: 45%;
+}
+
 main {
 	flex: 1 1 0%
 }
@@ -54,6 +59,8 @@ footer {
   font-size: 8pt;
 }
 
-h1,h2,h3{
-    line-height:1.2
+h1,h2,h3,h4,h5{
+    line-height:1.2;
+        text-align:center;
 }
+
